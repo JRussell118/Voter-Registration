@@ -1,3 +1,7 @@
+# Jaden Russell
+# 10/19/2022
+# SDEV 300
+
 """This program asks the user for their name, age, and location info to register them to vote"""
 def main():
     """Defines the code of the program in main"""
